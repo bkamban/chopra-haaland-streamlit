@@ -1,0 +1,10 @@
+.streamlit/secrets.toml
+.env
+.env.*
+__pycache__/
+*.pyc
+app/data/
+interviews-env/
+*venv/
+*.json
+*.log
